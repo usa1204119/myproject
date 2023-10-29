@@ -63,7 +63,6 @@ fonttools==4.42.1
 fqdn==1.5.1
 gopay==2.0.1
 gunicorn==21.2.0
-heroku==0.1.4
 hiredis==2.1.0
 identify==2.5.30
 idna==3.4
